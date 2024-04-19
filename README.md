@@ -30,4 +30,15 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 npm i -g @angular/cli
 npm i -g typescript
 ng new VeggiMedia-Client
+(USE NOOOO FOR PRE-RENDERING OR WHATEVER)
 ng serve --open
+
+<p>cd src/app/component -> ng generate component media (generate app component</p>
+<p>https://www.npmjs.com/package/@georgiancollege/express-mvc</p>
+<p>express-mvc --api VeggiMedia-Server</p>
+<p>npm i express body-parser mongoose dotenv</p>
+npm init
+entry point: (index.js) app.js 
+ng generate service media
+npm i cors
+ng build - public f in server
